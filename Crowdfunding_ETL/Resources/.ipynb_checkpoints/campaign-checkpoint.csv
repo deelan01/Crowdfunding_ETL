@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,country,currency,launched_at,deadline,subcatgory_id,category_id
 147,4661,"Baldwin, Riley and Jackson",Pre-emptive tertiary standardization,100.0,0.0,failed,0,CA,CAD,2020-02-13,2021-03-01,subcat1,cat1
 1621,3765,Odom Inc,Managed bottom-line architecture,1400.0,14560.0,successful,158,US,USD,2021-01-25,2021-05-25,subcat2,cat2
@@ -999,3 +1000,1006 @@ cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,cou
 1627,1498,Ball LLC,Right-sized full-range throughput,7600.0,4603.0,canceled,139,IT,EUR,2021-11-06,2021-12-10,subcat4,cat4
 2175,6073,"Taylor, Santiago and Flores",Polarized composite customer loyalty,66600.0,37823.0,failed,374,US,USD,2020-10-08,2021-04-11,subcat8,cat2
 1788,4939,"Hernandez, Norton and Kelley",Expanded eco-centric policy,111100.0,62819.0,canceled,1122,US,USD,2020-12-30,2021-08-18,subcat1,cat1
+=======
+category & sub-category,category,subcategory,subcatgory_id,category_id
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/animation,film & video,animation,subcat11,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/documentary,film & video,documentary,subcat5,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/drama,film & video,drama,subcat7,cat5
+film & video/science fiction,film & video,science fiction,subcat23,cat5
+film & video/science fiction,film & video,science fiction,subcat23,cat5
+film & video/science fiction,film & video,science fiction,subcat23,cat5
+film & video/science fiction,film & video,science fiction,subcat23,cat5
+film & video/science fiction,film & video,science fiction,subcat23,cat5
+film & video/science fiction,film & video,science fiction,subcat23,cat5
+film & video/science fiction,film & video,science fiction,subcat23,cat5
+film & video/science fiction,film & video,science fiction,subcat23,cat5
+film & video/science fiction,film & video,science fiction,subcat23,cat5
+film & video/science fiction,film & video,science fiction,subcat23,cat5
+film & video/science fiction,film & video,science fiction,subcat23,cat5
+film & video/science fiction,film & video,science fiction,subcat23,cat5
+film & video/science fiction,film & video,science fiction,subcat23,cat5
+film & video/science fiction,film & video,science fiction,subcat23,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/shorts,film & video,shorts,subcat13,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+film & video/television,film & video,television,subcat20,cat5
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+food/food trucks,food,food trucks,subcat1,cat1
+games/mobile games,games,mobile games,subcat21,cat7
+games/mobile games,games,mobile games,subcat21,cat7
+games/mobile games,games,mobile games,subcat21,cat7
+games/mobile games,games,mobile games,subcat21,cat7
+games/mobile games,games,mobile games,subcat21,cat7
+games/mobile games,games,mobile games,subcat21,cat7
+games/mobile games,games,mobile games,subcat21,cat7
+games/mobile games,games,mobile games,subcat21,cat7
+games/mobile games,games,mobile games,subcat21,cat7
+games/mobile games,games,mobile games,subcat21,cat7
+games/mobile games,games,mobile games,subcat21,cat7
+games/mobile games,games,mobile games,subcat21,cat7
+games/mobile games,games,mobile games,subcat21,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+games/video games,games,video games,subcat12,cat7
+journalism/audio,journalism,audio,subcat24,cat9
+journalism/audio,journalism,audio,subcat24,cat9
+journalism/audio,journalism,audio,subcat24,cat9
+journalism/audio,journalism,audio,subcat24,cat9
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/electric music,music,electric music,subcat6,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/indie rock,music,indie rock,subcat8,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/jazz,music,jazz,subcat18,cat2
+music/metal,music,metal,subcat17,cat2
+music/metal,music,metal,subcat17,cat2
+music/metal,music,metal,subcat17,cat2
+music/metal,music,metal,subcat17,cat2
+music/metal,music,metal,subcat17,cat2
+music/metal,music,metal,subcat17,cat2
+music/metal,music,metal,subcat17,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/rock,music,rock,subcat2,cat2
+music/world music,music,world music,subcat22,cat2
+music/world music,music,world music,subcat22,cat2
+music/world music,music,world music,subcat22,cat2
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+photography/photography books,photography,photography books,subcat15,cat8
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/fiction,publishing,fiction,subcat14,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/nonfiction,publishing,nonfiction,subcat10,cat6
+publishing/radio & podcasts,publishing,radio & podcasts,subcat16,cat6
+publishing/radio & podcasts,publishing,radio & podcasts,subcat16,cat6
+publishing/radio & podcasts,publishing,radio & podcasts,subcat16,cat6
+publishing/radio & podcasts,publishing,radio & podcasts,subcat16,cat6
+publishing/radio & podcasts,publishing,radio & podcasts,subcat16,cat6
+publishing/radio & podcasts,publishing,radio & podcasts,subcat16,cat6
+publishing/radio & podcasts,publishing,radio & podcasts,subcat16,cat6
+publishing/radio & podcasts,publishing,radio & podcasts,subcat16,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+publishing/translations,publishing,translations,subcat19,cat6
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/wearables,technology,wearables,subcat9,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+technology/web,technology,web,subcat3,cat3
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+theater/plays,theater,plays,subcat4,cat4
+>>>>>>> f93da36386aa1ce2af78ecd62448e84b0b5484cb
