@@ -14,7 +14,7 @@ Within Resources Folder:
 
 * Database : postgreSQL
 * Data Cleaning and Processing: Jupyter Notebook
-* Packages Used: pandas, numpy, datetime, plotly
+* Packages Used: pandas, numpy, datetime, matplotlib, seaborn
 * Data Loading: pgAdmin
 
 ## Steps
@@ -47,7 +47,9 @@ Within Resources Folder:
 - CSV files were imported into corresponding SQL tables.
 - The loaded data was verified using SELECT statements.
 
-
+## Bonus Visualizations
+- Created a pie chart showing the distribution of backers count by country.
+- Created a vertical bar chart for campaign outcomes by country.
 
 ## Authors
 
